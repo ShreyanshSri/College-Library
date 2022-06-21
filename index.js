@@ -100,3 +100,8 @@ function libraryFormSubmit(e) {
     e.preventDefault();
 }
 
+// To do
+
+// Store data in local storage
+// Give option to delete data
+// Add a scroll bar view
